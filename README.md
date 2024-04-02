@@ -1,5 +1,13 @@
 # 2024_modeling_workshop
 
+## agenda
+
+- Julia for beginners (15’ + 5’ chat — Wu lead)
+- Julia software stack + JuliaEO (15’ + 5’ chat — Gael lead)
+- Modeling across languages : MITgcm.jl + ClimateModel.jl (15’ + 5 ‘ chat — Gael lead)
+- Modeling in Julia : PlanktonIndividuals.jl (15’ + 5’ chat — Wu lead)
+
+## links
 
 - <https://github.com/gaelforget/ECCO-Docker>
   - <https://mybinder.org/v2/gh/gaelforget/ECCO-Docker/HEAD>
